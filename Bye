@@ -1,0 +1,7 @@
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome"; -- the title (ofc)
+Text = "Mike Is Dead 2001-∞ Goodbye Mike"; -- what the text says (ofc)
+Icon = ""; -- the image if u want. 
+Duration = 5; -- how long the notification should in secounds
+})
